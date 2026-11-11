@@ -1,0 +1,42 @@
+# Unity regenerates these folders on each computer.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE and generated solution files.
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files, exports, local backups and credentials.
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.unitypackage
+*.zip
+.env
+.env.*
+!*.example
+
+# Keep every source asset and its .meta file. Do not ignore Assets or Packages.

@@ -1,0 +1,43 @@
+ECHO LAB - Third-party asset notices
+Prepared for the private EchoLab game project. All selected downloads cost 0.
+Unity target: 6000.3.25f1, Universal Render Pipeline 17.3.0.
+
+Axel Kulomaa - Modular Concrete Interior 3D
+https://axel-kulomaa.itch.io/modular-concrete-interior
+License: CC0. Concrete/metal maps were repacked for URP.
+
+Madduck - Free Modular 3D hospital environment
+https://madduck.itch.io/modular-3d-hospital-environment
+Publisher permits use and modification in games, with private development-team sharing.
+Standalone redistribution as game assets is excluded. Keep this material in the game project and private team source.
+
+bitkiln - PSX Horror FPS Kit Free Sampler
+https://bitkiln.itch.io/psx-horror-fps-kit-free-sampler
+See FirstPerson/LICENSE.txt. Use/modification in personal and commercial projects allowed.
+Standalone asset/template redistribution is excluded.
+Only the flashlight and arms were selected; no firearm was imported.
+
+Quaternius - Animated Human
+https://opengameart.org/content/animated-human-low-poly
+License: CC0. See Human/License.txt.
+
+City Building Game Art / HorrorGameMaker.com - 3D Horror Game Monster
+https://opengameart.org/content/3d-horror-game-monster
+License: CC0. Selected black skin, Idle, Walk and Run meshes/clips.
+
+codeinfernogames - 3d Keycard
+https://opengameart.org/content/3d-keycard
+License: CC0.
+
+nisu - Scifi Generator
+https://opengameart.org/content/scifi-generator
+License: CC0. DirectX normal green channel converted for the prepared OpenGL-style normal.
+Metallic and inverted roughness were packed to URP metallic/smoothness channels.
+
+a52 / rubberduck / Yughues - PBR Industrial Asset Pack
+https://opengameart.org/content/pbr-industrial-asset-pack
+Source archive retained outside the Unity project. Industrial .blend models were not imported.
+
+Custom ECHO LAB prefabs (pressure plate, switch, keycard reader, alarm, security door,
+terminal and light fixture) were assembled for this project from primitive meshes and prepared materials.
+These are visual/physics building blocks. Time Loop, puzzle interaction and enemy AI are not implemented by this collection.

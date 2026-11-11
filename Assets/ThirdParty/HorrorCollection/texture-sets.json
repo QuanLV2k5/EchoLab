@@ -1,0 +1,140 @@
+{
+  "sets": [
+    {
+      "key": "ConcreteFloor",
+      "folder": "Concrete/Textures/ConcreteFloor",
+      "base": "Concrete/Textures/ConcreteFloor/ConcreteFloor_base.png",
+      "normal": "Concrete/Textures/ConcreteFloor/ConcreteFloor_normal.png",
+      "mask": "Concrete/Textures/ConcreteFloor/ConcreteFloor_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "ConcreteWall",
+      "folder": "Concrete/Textures/ConcreteWall",
+      "base": "Concrete/Textures/ConcreteWall/ConcreteWall_base.png",
+      "normal": "Concrete/Textures/ConcreteWall/ConcreteWall_normal.png",
+      "mask": "Concrete/Textures/ConcreteWall/ConcreteWall_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "RustyMetal",
+      "folder": "Concrete/Textures/RustyMetal",
+      "base": "Concrete/Textures/RustyMetal/RustyMetal_base.png",
+      "normal": "Concrete/Textures/RustyMetal/RustyMetal_normal.png",
+      "mask": "Concrete/Textures/RustyMetal/RustyMetal_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_bed",
+      "folder": "Hospital/Textures/bed",
+      "base": "Hospital/Textures/bed/Hospital_bed_base.png",
+      "normal": "Hospital/Textures/bed/Hospital_bed_normal.png",
+      "mask": "Hospital/Textures/bed/Hospital_bed_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_ceiling_1",
+      "folder": "Hospital/Textures/ceiling_1",
+      "base": "Hospital/Textures/ceiling_1/Hospital_ceiling_1_base.png",
+      "normal": "Hospital/Textures/ceiling_1/Hospital_ceiling_1_normal.png",
+      "mask": "Hospital/Textures/ceiling_1/Hospital_ceiling_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Ceiling_light",
+      "folder": "Hospital/Textures/Ceiling_light",
+      "base": "Hospital/Textures/Ceiling_light/Hospital_Ceiling_light_base.png",
+      "normal": "Hospital/Textures/Ceiling_light/Hospital_Ceiling_light_normal.png",
+      "mask": "Hospital/Textures/Ceiling_light/Hospital_Ceiling_light_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Chairs_table_1",
+      "folder": "Hospital/Textures/Chairs_table_1",
+      "base": "Hospital/Textures/Chairs_table_1/Hospital_Chairs_table_1_base.png",
+      "normal": "Hospital/Textures/Chairs_table_1/Hospital_Chairs_table_1_normal.png",
+      "mask": "Hospital/Textures/Chairs_table_1/Hospital_Chairs_table_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Door_1",
+      "folder": "Hospital/Textures/Door_1",
+      "base": "Hospital/Textures/Door_1/Hospital_Door_1_base.png",
+      "normal": "Hospital/Textures/Door_1/Hospital_Door_1_normal.png",
+      "mask": "Hospital/Textures/Door_1/Hospital_Door_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Doorway_1",
+      "folder": "Hospital/Textures/Doorway_1",
+      "base": "Hospital/Textures/Doorway_1/Hospital_Doorway_1_base.png",
+      "normal": "Hospital/Textures/Doorway_1/Hospital_Doorway_1_normal.png",
+      "mask": "Hospital/Textures/Doorway_1/Hospital_Doorway_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_exit_sign",
+      "folder": "Hospital/Textures/exit_sign",
+      "base": "Hospital/Textures/exit_sign/Hospital_exit_sign_base.png",
+      "normal": "Hospital/Textures/exit_sign/Hospital_exit_sign_normal.png",
+      "mask": "Hospital/Textures/exit_sign/Hospital_exit_sign_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Floors_1",
+      "folder": "Hospital/Textures/Floors_1",
+      "base": "Hospital/Textures/Floors_1/Hospital_Floors_1_base.png",
+      "normal": "Hospital/Textures/Floors_1/Hospital_Floors_1_normal.png",
+      "mask": "Hospital/Textures/Floors_1/Hospital_Floors_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Iv_bag",
+      "folder": "Hospital/Textures/Iv_bag",
+      "base": "Hospital/Textures/Iv_bag/Hospital_Iv_bag_base.png",
+      "normal": "Hospital/Textures/Iv_bag/Hospital_Iv_bag_normal.png",
+      "mask": "Hospital/Textures/Iv_bag/Hospital_Iv_bag_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Iv_pole",
+      "folder": "Hospital/Textures/Iv_pole",
+      "base": "Hospital/Textures/Iv_pole/Hospital_Iv_pole_base.png",
+      "normal": "Hospital/Textures/Iv_pole/Hospital_Iv_pole_normal.png",
+      "mask": "Hospital/Textures/Iv_pole/Hospital_Iv_pole_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Magazine",
+      "folder": "Hospital/Textures/Magazine",
+      "base": "Hospital/Textures/Magazine/Hospital_Magazine_base.png",
+      "normal": "Hospital/Textures/Magazine/Hospital_Magazine_normal.png",
+      "mask": "Hospital/Textures/Magazine/Hospital_Magazine_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_Walls_1",
+      "folder": "Hospital/Textures/Walls_1",
+      "base": "Hospital/Textures/Walls_1/Hospital_Walls_1_base.png",
+      "normal": "Hospital/Textures/Walls_1/Hospital_Walls_1_normal.png",
+      "mask": "Hospital/Textures/Walls_1/Hospital_Walls_1_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Hospital_wheel_chair",
+      "folder": "Hospital/Textures/wheel_chair",
+      "base": "Hospital/Textures/wheel_chair/Hospital_wheel_chair_base.png",
+      "normal": "Hospital/Textures/wheel_chair/Hospital_wheel_chair_normal.png",
+      "mask": "Hospital/Textures/wheel_chair/Hospital_wheel_chair_MetallicSmoothness.png",
+      "emission": ""
+    },
+    {
+      "key": "Generator",
+      "folder": "Generator/Textures",
+      "base": "Generator/Textures/Generator_base.png",
+      "normal": "Generator/Textures/Generator_normal.png",
+      "mask": "Generator/Textures/Generator_MetallicSmoothness.png",
+      "emission": "Generator/Textures/Generator_emission.png"
+    }
+  ]
+}
