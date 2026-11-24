@@ -6,10 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_EchoLab/Scenes/Levels/Level01.unity
-    guid: cd6b41c9996eb25428984393aab27d1e
-  - enabled: 0
-    path: Assets/_EchoLab/Scenes/Tests/FpsTest.unity
-    guid: da06d23adb494c445b13bf37b8117320
+    path: Assets/_EchoLab/Scenes/Levels/Level01_TinhThuc.unity
+    guid: 41e53222cb4db9440864cb935b51994b
+  - enabled: 1
+    path: Assets/_EchoLab/Scenes/Levels/Level02_DongDienCuoiCung.unity
+    guid: 8d7f6b0ddc196114bbf595a574b321b3
+  - enabled: 1
+    path: Assets/_EchoLab/Scenes/Levels/Level03_TiengGoiTrongBongToi.unity
+    guid: a787961eacdf15c45995e7fbbaeddfa7
+  - enabled: 1
+    path: Assets/_EchoLab/Scenes/Levels/Level04_BuongCachLy.unity
+    guid: 5b6ecf0875ae0c3428d33c55390aaf0b
+  - enabled: 1
+    path: Assets/_EchoLab/Scenes/Levels/Level05_NhungConSoBiCheGiau.unity
+    guid: 2a7ea22ff55d00d41a25ff4bb6fb0499
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

@@ -269,7 +269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6601772272005763470, guid: b9fcb3d67b4395447be60df1a11cbbc1, type: 3}
       propertyPath: m_Intensity
-      value: 8
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -299,6 +299,7 @@ MonoBehaviour:
   flashlight: {fileID: 9134226229398325051}
   playerController: {fileID: 849858884569431426}
   startOn: 1
+  viewRoot: {fileID: 7234152230055491015}
 --- !u!4 &7234152230055491015 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4699965373736559474, guid: b9fcb3d67b4395447be60df1a11cbbc1, type: 3}

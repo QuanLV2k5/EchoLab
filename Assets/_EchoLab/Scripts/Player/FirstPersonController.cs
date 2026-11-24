@@ -40,6 +40,22 @@ namespace EchoLab.Player
         private bool skipNextLook = true;
 
         public bool IsSprinting { get; private set; }
+        public float ViewPitch => pitch;
+        // Standalone FPS test scenes release the cursor themselves; the full game owns its pause menu.
+        public bool HandlesEscape { get; set; } = true;
+
+        public void SetMouseSensitivity(float value) { mouseSensitivity = Mathf.Clamp(value, 0.02f, 0.25f); }
+
+        public void Teleport(Vector3 position, Quaternion rotation)
+        {
+            if (characterController == null) characterController = GetComponent<CharacterController>();
+            characterController.enabled = false;
+            transform.SetPositionAndRotation(position, rotation);
+            characterController.enabled = true;
+            pitch = 0;
+            if (cameraPivot != null) cameraPivot.localRotation = Quaternion.identity;
+            ResetMotion();
+        }
 
         // UI, đèn pin và các cơ chế khác có thể dùng cùng điều kiện nhận đầu vào.
         public bool HasControl => isActiveAndEnabled && controlEnabled
@@ -113,7 +129,7 @@ namespace EchoLab.Player
 
         private void UpdateCursorLock()
         {
-            if (releaseCursorAction.WasPressedThisFrame())
+            if (HandlesEscape && releaseCursorAction.WasPressedThisFrame())
             {
                 UnlockCursor();
                 return;
