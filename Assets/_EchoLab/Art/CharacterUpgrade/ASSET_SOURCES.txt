@@ -1,0 +1,28 @@
+ECHO LAB — character and flashlight source record
+
+Character base and motions: Adobe Mixamo, Remy, downloaded from the user's
+signed-in Adobe session on 23 November 2026.
+https://www.mixamo.com/
+https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html
+
+Motions: Breathing Idle, Walking, Running. FBX Binary, 30 FPS, Without Skin,
+no key reduction. Walking and Running selected with the site's In Place setting.
+Unity additionally locks root XZ position, root height and root rotation;
+the game's recorded positions remain authoritative.
+
+Authored in Blender for this project: straight machined flashlight, reflector,
+lens, grip rings, sleeves, full trousers, collar, pockets and shirt details.
+The first-person hand derives from the same Mixamo base, posed and refined
+for the flashlight grip. Source textures keep their original Mixamo provenance.
+
+Editable sources: Tools/ArtSources/CharacterUpgrade/*.blend
+Reproducible authoring: Tools/CharacterUpgrade/create_assets.py
+Blender: official portable 4.5.16 LTS; download hash in
+Library/Tooling/blender-install.json.
+MCP: mcp-for-blender 2.3.1, community project:
+https://github.com/ahujasid/mcp-for-blender
+Local connection: 127.0.0.1:9876, telemetry disabled.
+
+The approved AI concept image is a design reference. The Blender/Unity models
+are actual game assets derived from the sources above, not GTA or Rockstar assets.
+Existing HorrorCollection source models are preserved separately.
